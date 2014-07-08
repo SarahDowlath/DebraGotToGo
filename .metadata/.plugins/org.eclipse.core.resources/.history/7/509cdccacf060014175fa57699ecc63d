@@ -1,0 +1,17 @@
+package com.papodec.gottahgo;
+
+import android.os.Bundle;
+import android.support.v7.app.ActionBarActivity;
+
+public class Splash extends ActionBarActivity{
+
+	@Override
+	protected void onCreate(Bundle Splashbundle) {
+		// TODO Auto-generated method stub
+		super.onCreate(Splashbundle);
+		setContentView(R.layout.splash);
+	}
+	
+	
+
+}
